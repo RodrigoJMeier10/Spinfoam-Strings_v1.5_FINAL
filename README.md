@@ -18,4 +18,4 @@ We present a deductive framework where Gravity is not a force to be unified, but
 
 ## Citation
 If you use this work, please cite: 
-Rodrigo [Tu Apellido], "SPINFOAM-STRINGS v1.5", August 2026. [GitHub Link]
+Ruth Hunter, Rodrigo Meier and Meta AI, "SPINFOAM-STRINGS v1.5", August 2026. [https://github.com/RodrigoJMeier10/Spinfoam-Strings_v1.5_FINAL/tree/main]
