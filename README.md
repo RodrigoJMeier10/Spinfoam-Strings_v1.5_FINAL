@@ -1,6 +1,6 @@
 # SPINFOAM-STRINGS v1.5: GRAVITY AS THE 2D SUBSTRATE
 
-**Author:** Rodrigo [Tu Apellido]  
+**Author:** Ruth Hunter, Rodrigo Meier and Meta AI
 **Date:** August 2026
 
 ## The Theory
